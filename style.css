@@ -1,0 +1,235 @@
+.task{
+    font-size: 60px;
+    font-weight: 900;
+    color: rgb(22, 22, 22);
+    margin-left: 220px;
+}
+a{
+    text-decoration: none;
+}
+    
+
+.list{
+    font-size: 50px;
+    color:rgb(99, 98, 98);
+    margin-left: 14px;
+
+    
+}
+.add{
+    font-size: 40px;
+    color: rgb(99, 98, 98);
+    margin-left: 425px;
+
+    
+    
+}
+.main{
+    margin-top: 135px;
+
+}
+.box1{
+    height: 365px;
+    width: 225px;
+    border: 1px rgb(223, 48, 48) solid;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px rgb(148, 147, 147) ;
+}
+.trip{
+    color: rgb(227 74 74);
+    font-size: 35px;
+    font-weight: lighter;
+    text-align: center;
+}
+.under{
+    color: red;
+    font-size: 30px;
+    padding-left: 20px;
+    text-decoration: 2px line-through red;
+}
+.check{
+    font-size: 27px;
+    color: rgb(52 46 46);
+    padding-left: 8px;
+}
+.parent{
+    width: 850px;
+    margin-left: 222px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 41px;
+}
+.icon{
+    height: 44px;
+    width: 44px;
+    border-radius:50%;
+    padding-left: 12px;
+    box-sizing: border-box;
+    background-color:rgb(245, 56, 23);
+    top: 153px;
+    margin-left: 863px;
+    position: absolute;
+}
+.fa-plus{
+    color: white;
+}
+.paris{
+    font-size: 65px;
+    font-weight: 800;
+    color: rgb(41, 39, 39);
+    text-align: center;
+}
+.arrow{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding-top: 7px;
+    padding-left: 7px;
+    box-sizing: border-box;
+    background-color:rgb(247, 53, 19);
+    position: absolute;
+    left: 575px;
+
+}
+.fa-long-arrow-alt-left{
+    color: white;
+}
+.back{
+    font-size: 45px;
+    color: rgb(77, 75, 75);
+    padding-left: 630px;
+
+}
+
+.box2{
+    height: 465px;
+    width: 360px;
+    border: 1px rgb(223, 48, 48) solid;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px rgb(148, 147, 147);
+    margin-left: 500px;
+    margin-top: 60px;
+    
+
+}
+
+.trip2{
+    color: rgb(227 74 74);
+    font-size: 35px;
+    font-weight: lighter;
+    text-align: center;
+}
+.under2{
+    color: red;
+    font-size: 25px;
+    font-weight: 700;
+    padding-left: 95px;
+    text-decoration: 2px line-through red;
+}
+.check2{
+    font-size: 27px;
+    color: rgb(52 46 46);
+    padding-left: 90px;
+}
+.blur{
+    filter: blur(9px);
+}
+
+.icon2{
+    height: 44px;
+    width: 44px;
+    border-radius:50%;
+    padding-left: 12px;
+    box-sizing: border-box;
+    background-color:tomato;
+    top: 18px;
+    margin-left: 863px;
+    position: absolute;
+}
+.adlis{
+    height: 216px;
+    width: 410px;
+    border: 2px tomato solid;
+    position: absolute;
+    top: 253px;
+    left: 456px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px gray;
+
+
+}
+
+
+.label{
+    font-size: 25px;
+    padding-left: 134px;
+    color:tomato;
+    
+    
+}
+input{
+    border: 1px tomato solid;
+    padding-top: 17px;
+    border-radius: 7px;
+    
+}
+.sub{
+    text-decoration: none;
+    padding: 7px 18px 9px 18px;
+    margin-left: 169px;
+    background-color: rgb(241, 74, 45);
+    color: white;
+    font-size: 22px;
+    border-radius: 18px;
+}
+.checky{
+    font-size: 27px;
+    color:rgb(52 46 46);
+}
+.sim{
+    height: 22px;
+width: 22px;
+border: 2px black solid;
+margin-left: 10px;
+}
+hr{
+    width:180px;
+    right: -18px;
+    position: relative;
+    
+}
+.line{
+    width: 275px;
+    right:-40px;
+    top:-10px;
+    
+
+}
+.p{
+    width: 275px;
+    right:319px;
+    top: 103px;
+}
+.f{
+    width: 275px;
+    right:-330px;
+    top: -94px;
+}
+.hel{
+    height: 44px;
+    width: 44px;
+    border-radius:50%;
+    padding-left: 12px;
+    box-sizing: border-box;
+    background-color:rgb(252, 51, 16);
+    padding-top: 4px;
+    padding-right: 3px;
+    margin-left: 299px;
+    margin-top: 185px;
+}
+.fa-plus {
+    color: white;
+}
+
